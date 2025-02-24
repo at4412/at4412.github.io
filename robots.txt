@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://ana.bushwick.fun//al-folio/sitemap.xml
+User-agent: * Disallow: Sitemap: https://ana.bushwick.fun/date.me//al-folio/sitemap.xml
